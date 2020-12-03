@@ -1,6 +1,6 @@
 # Statistical-Data-Analysis-of-Movies-In-Tableau
 In this project I utilized the movies_dataset which I found on Kaggle.It contains 28 attributes and around 5000 tuples.One of my Primary aim was to understand relationship between 
-different attributes and their co-relation with the movies box-office performance.After careful analysis I discovered that the data had many Null values, hence by using the Filter method in tableau i 
+different attributes and their co-relation with the movies box-office performance and its revenue.After careful analysis I discovered that the data had many Null values, hence by using the Filter method in tableau i 
 filled those up. For the attribute Genre I splitted it into 3 categories to get a better view.I particularly observed that movies Fb likes had a positive impact with 
 the movie's performance at the box office and its IMDB ratings.Moreover, actors popularity on Fb also saw the similar pattern on box-office.
 As far as Genre is concerened, it was observed that action movies had the maximum budget but there was one outlier in the form of comedy movies in the year 2006.
