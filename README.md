@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-of-Movies-In-Tableau
+# Statistical-Data-Analysis-of-Movies-In-Tableau
 In this project I utilized the movies_dataset which I found on Kaggle.It contains 28 attributes and around 5000 tuples.One of my Primary aim was to understand relationship between 
 different attributes and their co-relation with the movies box-office performance.After careful analysis I discovered that the data had many Null values, hence by using the Filter method in tableau i 
 filled those up. For the attribute Genre I splitted it into 3 categories to get a better view.I particularly observed that movies Fb likes had a positive impact with 
